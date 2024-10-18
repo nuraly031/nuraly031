@@ -1,4 +1,4 @@
-- 👋 Hi, I'm a digital nomad, learn Java
+- 👋 Hi, I'm a digital nomad, Java Devoloper
 - 📫 How to reach me <a href="https://t.me/raly31">Telegram</a>
 
 <!---
